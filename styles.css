@@ -1,0 +1,97 @@
+/* HTML ELEMENTS STYLED WITH CSS */
+
+body{
+    background-color: rgb(87, 223, 223);
+}
+
+h1{
+    color : rgb(155, 118, 192);
+    font-size: 120px;
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+p{
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+}
+
+a{
+font-size: 24px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 30%;
+}
+
+form{
+    text-align: center;
+    background-color: rgb(152, 221, 221);
+    font-size: 30px;
+    line-height: 50px;
+    padding-top: 10px;
+}
+
+table{
+    text-align: center;
+    margin-bottom: 40px;
+    margin-right: 30px;
+    margin-left: auto;
+    border-spacing: 10px;
+    background-color: rgb(152, 221, 221);
+}
+
+th{
+    font-size: 40px;
+    color:rgb(81, 82, 94)
+}
+
+td{
+    font-size: 20px;
+    color: rgb(88, 57, 70);
+}
+
+/* CSS CLASSES */
+
+.footer-stuff{
+    background-color: rgb(81, 82, 94);
+    padding: 40px;
+    margin: 10px;
+    border: none;
+}
+
+.center{
+    float: left;
+    margin: 14px;
+    padding: 14px;
+    background-color: rgb(152, 221, 221);
+    width: 25%;
+}
+
+/* CSS ID */
+
+#mainpage-secondary-header{
+    text-align: center;
+    font-size: 40px;
+    border-style: dashed;
+    border-width: 4px;
+    border-color: black;
+    margin: 10px;
+    padding: 8px;
+}
+
+#dog-hyperlink-aline{
+    float: right;
+}
+
+#cat-hyperlink-aline{
+    float: right;
+}
+
+
